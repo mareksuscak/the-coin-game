@@ -1,6 +1,6 @@
 // Jest Snapshot v1, https://goo.gl/fbAQLP
 
-exports[`computes the result correctly 1`] = `
+exports[`computes the result correctly for all Ns 1`] = `
 Array [
   true,
   false,
